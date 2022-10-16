@@ -1,7 +1,10 @@
 #include  <stdio.h>
 /**
  * main - Entry Point
- * return - returns 0
+ *
+ * Description: prints a string
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
